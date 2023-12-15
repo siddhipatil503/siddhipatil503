@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddhi Patil! 
-- 👀 Currently pursuing a Bachelors in Computer Science at PES University, Bangalore
+- 👀 Currently a software developer at Intel, I've completed my Bachelors in Computer Science from PES University, Bangalore
 - 🌱 Here you'd find a few things i've enjoyed working on
 - 📫 You can reach me through - LinkedIn : https://www.linkedin.com/in/siddhi-patil-a6716a196/
 
